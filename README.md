@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-schnee/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Der erste Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-schnee/) |
+| **Get License** | [Official Music Licensing for Der erste Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-schnee/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist eisig, doch du brennst wie Feuer in mei'm Blick
+> Rolle im Benz durch die Nacht, jeder Beat zieht mich zurück
+> Dein Duft in der Luft, Baby, süßer als der erste Schnee
+> Lass die Welt frieren, weil ich nur noch deine Kurven seh'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
