@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-schnee/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Der erste Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-schnee/) |
+| **Get License** | [License this song: Der erste Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-schnee/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d9d0bfc4298e43e367b801a0bfec4209990d8fee7e99b5effdc426768db9bf7e` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
